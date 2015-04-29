@@ -23,6 +23,7 @@ from .amberinpcrdfile import AmberInpcrdFile
 from .dcdfile import DCDFile
 from .gromacsgrofile import GromacsGroFile
 from .gromacstopfile import GromacsTopFile
+from .gromacsmartinifile import GmxTopMartini
 from .dcdreporter import DCDReporter
 from .modeller import Modeller
 from .statedatareporter import StateDataReporter
